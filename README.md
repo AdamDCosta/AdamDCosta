@@ -2,9 +2,24 @@
 
 ## How to contact me
 
-[<img align="left" src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />] [blog]
 
-[blog]: https://www.linkedin.com/in/adam-d-costa-a1750248/
+src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />]
+
+Gmail
+
+CV?
+
+# View my code
+
+Github
+
+## Tech Stack
+
+
+
+## Interests
+
+
 
 
 
