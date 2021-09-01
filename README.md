@@ -24,20 +24,20 @@ Github
 ![Javascript](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 
-Experience
+## Experience
 
-_nology 12 week web dev course
-Foyles - Area Commercial Support
-Foyles - Promotions Manager
+- _nology 12 week web dev course
+- Foyles - Area Commercial Support
+- Foyles - Promotions Manager
 
 
 ## Interests
 
-Reading
-Walking
-Sports
-Coding
-:stuffed_flatbread: Food
+- Reading
+- Walking
+- :soccer: Sports
+- Coding
+- :stuffed_flatbread: Food
 
 
 
