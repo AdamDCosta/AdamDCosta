@@ -32,10 +32,10 @@ Github
 
 ## Interests
 
-- Reading
+- :open_book: Reading
 - Walking
 - :soccer: Sports
-- Coding
+- :computer: Coding
 - :stuffed_flatbread: Food
 
 
