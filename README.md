@@ -13,7 +13,7 @@
 
 Github
 
-![Github Repositories](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+[![Github Repositories](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdamDCosta?tab=repositories)
 
 
 ## What I'm currently learning
