@@ -33,7 +33,7 @@ Github
 ## Interests
 
 - :open_book: Reading
-- Walking
+- :evergreen_tree: Nature
 - :soccer: Sports
 - :computer: Coding
 - :stuffed_flatbread: Food
