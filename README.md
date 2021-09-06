@@ -5,7 +5,7 @@
 
 
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adam-d-costa-a1750248/)
-[mailto](mailto:adam.dcosta@googlemail.com)[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([mailto])(mailto:adam.dcosta@googlemail.com)
 
 
 ## View my code
