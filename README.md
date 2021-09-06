@@ -24,7 +24,7 @@ Github
 
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamDCosta&show_icons=true&theme=radical)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamDCosta)](https://github.com/AdamDCosta/github-readme-stats)
 
 
 ## Experience
