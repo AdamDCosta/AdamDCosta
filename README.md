@@ -31,8 +31,8 @@ Github
 ## Experience
 
 - _nology 12 week web dev course
-- Foyles - Area Commercial Support
-- Foyles - Promotions Manager
+- Foyles Bookshop - Area Commercial Support
+- Foyles Bookshop - Promotions Manager
 
 
 ## Interests
