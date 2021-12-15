@@ -1,4 +1,4 @@
-### Hello! 👋 I'm Adam, a trainee web developer currently based in Gloucestershire.
+### Hello! 👋 I'm Adam, a web developer currently based in Gloucestershire.
 
 
 ## How to reach me
