@@ -30,6 +30,7 @@ Github
 ## What I'm currently learning
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ![Adam's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamDCosta&show_icons=true&theme=radical)
 
