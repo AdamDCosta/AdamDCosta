@@ -1,4 +1,4 @@
-### Hello! 👋 I'm Adam, a web developer currently based in Gloucestershire.
+### Hello! 👋 I'm Adam, a web developer currently based Bristol.
 
 
 ## How to reach me
@@ -39,6 +39,7 @@ Github
 
 ## Experience
 
+- Jyre - Junior Full Stack Developer
 - _nology 12 week web dev course
 - Foyles Bookshop - Area Commercial Support
 - Foyles Bookshop - Promotions Manager
